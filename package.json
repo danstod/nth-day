@@ -33,7 +33,7 @@
     "day"
   ],
   "license": "MIT",
-  "main": "lib/nth-day.js",
+  "main": "lib/index.js",
   "name": "nth-day",
   "repository": {
     "type": "git",
