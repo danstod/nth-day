@@ -35,14 +35,6 @@
   "license": "MIT",
   "main": "lib/nth-day.js",
   "name": "nth-day",
-  "pre-commit": {
-    "colors": true,
-    "run": [
-      "lint",
-      "test"
-    ],
-    "silent": false
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guyellis/nth-day.git"
